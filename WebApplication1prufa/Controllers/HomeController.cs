@@ -15,7 +15,8 @@ namespace WebApplication1prufa.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hello world! abc";
+
+            ViewBag.Message = "Hello world! abcdef";
 
             return View();
         }
